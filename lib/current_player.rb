@@ -1,4 +1,3 @@
 turn_count.each do |board|
-  return board.count 
+  return board.count
 end
-
