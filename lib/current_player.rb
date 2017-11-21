@@ -5,5 +5,5 @@ def turn_count(board)
   array.count("X") && array.count("O") = turns
   counter+=1
   end
-  puts turns 
+  puts turns
 end
