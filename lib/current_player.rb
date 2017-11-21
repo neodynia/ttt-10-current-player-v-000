@@ -1,2 +1,8 @@
-def turn_count(board)
+turn_counts.each do |turn|
+  return 
+end
+
+  
+  
+  
   
