@@ -1,8 +1,3 @@
 turn_counts.each do |turn|
-  return 
+  return
 end
-
-  
-  
-  
-  
