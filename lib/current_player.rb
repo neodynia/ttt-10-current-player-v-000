@@ -4,3 +4,4 @@ turn_count.each do |board|
   array.count("X") && array.count("O")
   counter+=1
   end
+end
