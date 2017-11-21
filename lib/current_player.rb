@@ -1,4 +1,4 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board.each do |board|
-  board.count("X")
+def board.each do |board|
+  board.count
 end
